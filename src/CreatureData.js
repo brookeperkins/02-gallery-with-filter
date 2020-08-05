@@ -97,7 +97,7 @@ const images = [
       horns: 2
     },
     {
-      url: "http://www.zooborns.com/.a/6a010535647bf3970b0223c84d5959200c-800wi",
+      url: "http://www.placekitten.com/300/300",
       title: "Baby markhor",
       description: "Even the babies are adorable",
       keyword: "markhor",
@@ -105,14 +105,14 @@ const images = [
     },
     {
       url:
-        "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/28476658_9c97f35096_o.jpg",
+        "http://www.placekitten.com/300/300",
       title: "Mouflon",
       description: "Those horns though",
       keyword: "mouflon",
       horns: 2
     },
     {
-      url: "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/addax.jpg",
+      url: "http://www.placekitten.com/300/300",
       title: "Addax",
       description:
         "This guy is basically extinct but survives well in captivity, so they're frequently found in zoos",
@@ -129,7 +129,7 @@ const images = [
     },
     {
       url:
-        "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/chameleon.jpg",
+        "http://www.placekitten.com/300/300",
       title: "Happy Jackson's Chameleon",
       description: "These are really common in Hawaii",
       keyword: "chameleon",
