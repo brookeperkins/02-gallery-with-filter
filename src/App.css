@@ -7,7 +7,7 @@ body {
   --color3: hsla(204, 39%, 55%, 1);
   --color4: hsla(207, 74%, 79%, 1);
   --color5: hsla(80, 1%, 54%, 1);
- 
+
   background-color: var(--color4);
 }
 
@@ -19,6 +19,20 @@ main {
   margin: 40px;
   background-color: var(--color1);
   border: solid 2px var(--color2);
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+  background-color: var(--color1);
+  border: solid 2px var(--color2);
+}
+
+#select {
+  height: 40px;
 }
 
 img {
